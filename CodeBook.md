@@ -7,11 +7,11 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 Test and training data, subject ids and activity ids are merged into a single data set. The mean and standard deviation are calculated from the merged data set. A new column is added with activity description. And a tidy data set is created with the average of each variable for each activity and subject. 
 
 ## Variable Names:
-leading t or f is based on time or frequency measurements.
-Body = related to body movement
-Gravity = acceleration of gravity
-Acc = accelerometer measurement
-Gyro = gyroscopic measurements
-Jerk = sudden movement acceleration
-Mag = magnitude of movement
-mean and SD are calculated for each subject for each activity for each mean and SD measurements
+- leading t or f is based on time or frequency measurements.
+- Body = related to body movement
+- Gravity = acceleration of gravity
+- Acc = accelerometer measurement
+- Gyro = gyroscopic measurements
+- Jerk = sudden movement acceleration
+- Mag = magnitude of movement
+- mean and SD are calculated for each subject for each activity for each mean and SD measurements
